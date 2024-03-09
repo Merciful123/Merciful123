@@ -1,9 +1,7 @@
 ### Hi there 👋
 #### I am Aamir Raza
 
-- 🌱 I've 1.5 years of working experience as a front end developer. I've been learning how to talk to computers through programming languages for 3 years.
-- 🌱 I'm good at front end development using React Js and currently learning Backend development with Node Js, Express js and mongoDB
-- 🔭 I'm currently working on problem solving using JavaScript and for it I am following a tutorial of Colt Steel from Udemy.
+#### I am a self-taught software engineer with a deep passion for building impactful products. My enthusiasm lies in problem-solving and utilizing my coding skills to create innovative solutions. I have successfully completed multiple internships alongside a full-time job, enhancing my expertise in software.
 
   
 ## Portfolio:- https://iamaamir.netlify.app/
