@@ -5,7 +5,7 @@
 #### experience with a deep passion for building
 #### impactful products. Enthusiasm lies in problem-solving and utilizing my coding skills to create
 #### innovative solutions. Successfully completed
-#### multiple internships alongside a full-time job,
+#### multiple internships alongside full-time jobs,
 #### enhancing my expertise in software development.
 
   
